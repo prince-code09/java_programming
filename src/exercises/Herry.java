@@ -88,6 +88,22 @@ public class Herry {
 //            System.out.println(" try again ");
 //        }
 
+//.................................................................USE OF LOOP -------WAP TO PRINT STAR PATTERN
+
+//        for( int a=1; a<=5; a++){
+//            System.out.print("*" );
+//
+
+
+
+
+
+
+
+
+
+
+
 
 
     }
