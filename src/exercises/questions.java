@@ -1,6 +1,6 @@
 package exercises;
-import java.util.Scanner;
-public class Herry {
+
+public class questions {
     public static void main(String[] args) {
 //
 //        System.out.println(" wap a program of sum of three numbers---------------------");

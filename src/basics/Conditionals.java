@@ -62,6 +62,7 @@ public class Conditionals {
 
 // ........................................................conditionals practice (enhance switch case )
 // mostly prefer break ki jarurat nhi padti and default is optonal
+// cases ke baad 1 ...2...3 likhe hote h jo wo input hote hai
 
         Scanner scm = new Scanner(System.in);
         System.out.print(" enter your month day from (1-12) : ");
@@ -89,7 +90,7 @@ public class Conditionals {
 
 
 // .................................................conditionals using ( ternary operator )
-        // ek shortcut h if else wle statement ko likhne ka ek line me
+        // ternary operator ye ek shortcut h if else wle statement ko likhne ka ek line me
 
         Scanner sca = new Scanner (System.in);
         System.out.print(" enter your age : ");
