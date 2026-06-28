@@ -69,8 +69,6 @@ public class array {
 //                System.out.println(" not found ");
 
         //.........................................largest element/value find kaise kre
-        int arr[]={ 1,2,3,4,5,6};
-        int max= Integer.MINIMUM_VALUE;  // or int max=arr[0];
 
 
 
