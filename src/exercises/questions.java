@@ -125,9 +125,16 @@ public class questions{
 //        while(0<n){
 //            int digit = n%10;    //ek value milegi jo hme store krna h iske liye naya variable bnaya
 //            product=product*digit ;
-//            n=n/10;
+//            n=n/10;   //or n/=10
 //        }
   //      System.out.println(product);
+//------------------------------------------------------------------------------------------
+//        int product=1;
+//        for(int n=223;0<n;n=n/10){
+//            int form=n%10;
+//            product*=form;
+//        }
+//        System.out.println(product);
 
 
 //        11.......... Count and print the total number of digits in a given number
