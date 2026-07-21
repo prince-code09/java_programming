@@ -3,7 +3,7 @@
 // ensureCapacity() & trimToSize()--- ye sirf arraylist me work krenge linked me ni kyuki wo nodes se bani hoti hai--- isi tarah linkedlist me kch methods hote hai
 // capacity(), FirstElement() , lastElement , elementAt()--- vector me use hone wale extra methods aor baki sare arraylist ke method vector me work krenge
 
-// PRIMITIVE DATA TYPE NHI USE HONGE KYUKI WO OBJECTS NHI H AOR JCF OBJECT STORE KRTA H SIRF IS LIYE JAVA NE WRAPPER CLASSES BNAI aor whi use hongi---Integer ,Character , Double etc.
+// PRIMITIVE DATA TYPE NHI USE HONGE KYUKI WO OBJECTS NHI H AOR JCF_list OBJECT STORE KRTA H SIRF IS LIYE JAVA NE WRAPPER CLASSES BNAI aor whi use hongi---Integer ,Character , Double etc.
 // custom object bhi bana skte h jaise Student, Mario etc . and iske baad primitive datatype or object (String) use krke value store krwao
 
 package dsa;
@@ -14,7 +14,7 @@ import java.util.*;   //    * ka mtlb java.util package ki saari classes aor int
 // import java.util.Collection;
 //   import java.util.List;
 
-public class JCF {
+public class JCF_list {
     public static void main (String []args){
  // ArrayList<Integre> --- reference type hai {generic bolte h isko}  || box--- refrence variable hai  || new ArrayList<>() ---ye object h
         ArrayList<Integer> box = new ArrayList<>();   // Arraylist class  reference  {object bnane ke tarike h ye 3 tarike arraylist me }
